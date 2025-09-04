@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on **development**
 
-- 🌱 I’m currently learning **advanced python and databases**
+<!--- 🌱 I’m currently learning **advanced python and databases**
 
 - 👯 I’m looking to collaborate on **python projects**
+-->
 
 - 📫 How to reach me **kathan.parikh.1@gmail.com**
 
